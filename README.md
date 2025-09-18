@@ -1,16 +1,24 @@
-## Hi there 👋
+# Minha Jornada para o Desenvolvimento Full Stack 🚀
 
-<!--
-**amoraesp26/amoraesp26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋  
+Meu nome é Anderson Moraes, e este repositório documenta minha transição de carreira da **área automotiva** para o **desenvolvimento full stack**.
 
-Here are some ideas to get you started:
+## Objetivo
+Construir um portfólio sólido e demonstrar minhas habilidades em:
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express, APIs REST  
+- **Banco de Dados**: SQL, MongoDB  
+- **Outros**: Git, Docker, Cloud (em progresso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estrutura
+- `portfolio/` → Projetos práticos (frontend, backend e full stack).  
+- `estudos/` → Exercícios e anotações de aprendizado.  
+- `docs/` → Roadmap, cursos e certificações que estou realizando.
+
+## Status
+📌 Atualmente estudando **JavaScript avançado** e iniciando projetos com **React**.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/anderson-moraes-pereira-890434381/
+- GitHub: https://github.com/amoraesp26/amoraesp26.git
+- Email: amp260991@hotmail.com
