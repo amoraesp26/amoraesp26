@@ -20,5 +20,5 @@ Construir um portfólio sólido e demonstrar minhas habilidades em:
 
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/anderson-moraes-pereira-890434381/
-- GitHub: https://github.com/amoraesp26/amoraesp26.git
+- GitHub: https://github.com/amoraesp26
 - Email: amp260991@hotmail.com
